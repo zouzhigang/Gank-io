@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">干货集中营</string>
+    <string name="title_activity_photo_view">详情</string>
+    <string name="title_activity_details_web_view">DetailsWebViewActivity</string>
+</resources>

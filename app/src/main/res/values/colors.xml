@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_primary_color">#e6e6e6</color>
+    <color name="app_primary_dark_color">#37b059</color>
+    <color name="app_transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#808080</color>
+    <color name="black">#000000</color>
+    <color name="tab_gray">#ff999999</color>
+    <color name="tab_green">#ff45c01a</color>
+
+    <color name="vpi__background_holo_dark">#666666</color>
+    <color name="vpi__background_holo_light">#37b059</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
+    <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
+
+</resources>

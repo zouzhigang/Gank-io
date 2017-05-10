@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.summer.meizitu.viewpage.TabPageIndicator
+        android:id="@+id/tab_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="45dip"/>
+
+    <com.summer.meizitu.viewpage.MyViewPager
+        android:id="@+id/tab_pager"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/tab_indicator"
+        android:layout_height="match_parent"/>
+    <LinearLayout
+        android:id="@+id/adview_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+    </LinearLayout>
+</RelativeLayout>
